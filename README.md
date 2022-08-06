@@ -2,12 +2,13 @@
 <head>
   
   <title> My Contacts </title>
-<style>
+  <style>
    body{ 
-      background-color:salmon;
+         background-color:salmon;
     
     }
 </style>
+
 
 </head>
 <body>
