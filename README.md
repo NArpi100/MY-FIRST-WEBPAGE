@@ -43,13 +43,13 @@
 <br>
 <br>
 <br>
-   <h2> I am an engineer who is sports lover and also a music lover </h2>
+     <h2> I am an engineer who is sports lover and also a music lover </h2>
 <hr size="3">
 
 </center>
-   <h4><strong>Who is a brave Women </strong></h4>
+     <h4><strong>Who is a brave Women </strong></h4>
 <hr>
-   <h3><strong><em>My Passions Are :-</em> </strong></h3>
+     <h3><strong><em>My Passions Are :-</em> </strong></h3>
 <ol>
    <li><a href = "https://www.youtube.com/watch?v=sSwQIJfQ2FU"> Quad Skating</a></li>
    <li><a href="https://www.youtube.com/watch?v=HucIqi8Lw3E"> Badminton playing</a></li>
