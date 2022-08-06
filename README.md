@@ -24,7 +24,75 @@
    <input type ="submit" name="">
 </form>
   
- 
+ <body>
+   <table>
+    <tr>
+      <td><img src="file://DESKTOP-BJ5DDEP/Users/asd/OneDrive/Desktop/aria2.png"></td>
+      <td><a href="file://DESKTOP-BJ5DDEP/Users/asd/OneDrive/Desktop/My%20contacts.html"> My contacts </a>
+
+
+      <h3><strong> Arpita's profile picture <br>  <a href="https://in.linkedin.com/in/arpita-ghosh-7715b1210">Linkedin link</a> </strong></h3>
+      <p> I am Arpita who is currently an Engineering student </p>
+     </td>
+
+   </tr>
+  </table>
+<center>
+<hr size="3">
+  <em> I am Arpita </em>
+<br>
+<br>
+<br>
+   <h2> I am an engineer who is sports lover and also a music lover </h2>
+<hr size="3">
+
+</center>
+   <h4><strong>Who is a brave Women </strong></h4>
+<hr>
+   <h3><strong><em>My Passions Are :-</em> </strong></h3>
+<ol>
+   <li><a href = "https://www.youtube.com/watch?v=sSwQIJfQ2FU"> Quad Skating</a></li>
+   <li><a href="https://www.youtube.com/watch?v=HucIqi8Lw3E"> Badminton playing</a></li>
+   <li>Singing</li>
+   <li>Dancing</li>
+   <li>Reading Books</li>
+   <li>Public Speaking</li>
+</ol>
+<br>
+<br>
+<br>
+<table border = "1">
+ <thead>
+   <tr>
+    <th> 2019 </th>
+    <th> B.Tech </th>
+    <th> 2019 </th>
+    <th> B.Tech </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td> God's Desire </td>
+     <td>⭐⭐⭐⭐⭐</td>
+  </tr>
+   <tr>
+     <td> Trust </td>
+     <td>⭐⭐⭐⭐</td>
+   </tr>
+   <tr>
+     <td> Trust </td>
+     <td>⭐⭐⭐⭐</td>
+  </tr>
+   <tr>
+    <td> Trust </td>
+    <td>⭐⭐⭐⭐</td>
+  </tr>
+  <tr>
+     <td> Trust </td>
+     <td>⭐⭐⭐⭐</td>
+  </tr>
+</tbody>
+</table>
  
 
   
