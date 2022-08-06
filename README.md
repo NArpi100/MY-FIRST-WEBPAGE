@@ -23,9 +23,7 @@
 
    <input type ="submit" name="">
 </form>
-  
- 
-   <table>
+  <table>
     <tr>
       <td><img src="file://DESKTOP-BJ5DDEP/Users/asd/OneDrive/Desktop/aria2.png"></td>
       <td><a href="file://DESKTOP-BJ5DDEP/Users/asd/OneDrive/Desktop/My%20contacts.html"> My contacts </a>
@@ -91,7 +89,9 @@
      <td> Trust </td>
      <td>⭐⭐⭐⭐</td>
   </tr>
-</tbody>
+
+  
+  </tbody>
 </table>
  
 
