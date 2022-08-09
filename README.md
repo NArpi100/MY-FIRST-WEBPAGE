@@ -8,7 +8,7 @@
     
     }
 hr{ border-style:dotted;
-    border-color:powderblue;
+    background-color:powderblue;
     width:30%;
     height:0px;
 }
