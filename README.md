@@ -7,6 +7,11 @@
          background-color:salmon;
     
     }
+hr{ border:dotted;
+    border-color:powderblue;
+    width:30%;
+    height:0px;
+}
 </style>
 
 
