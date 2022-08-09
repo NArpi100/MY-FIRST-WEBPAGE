@@ -1,8 +1,8 @@
 <html>
 <head>
   
-  <title> My Contacts </title>
-  <style>
+<title> My Contacts </title>
+<style>
    body{ 
          background-color:salmon;
     
@@ -75,8 +75,7 @@ hr{ border-style:dotted;
    <tr>
     <th> 2019 </th>
     <th> B.Tech </th>
-    <th> 2019 </th>
-    <th> B.Tech </th>
+    
   </tr>
 </thead>
 <tbody>
