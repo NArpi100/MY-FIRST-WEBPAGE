@@ -7,7 +7,7 @@
          background-color:salmon;
     
     }
-hr{ border:dotted;
+hr{ border-style:dotted;
     border-color:powderblue;
     width:30%;
     height:0px;
